@@ -1,0 +1,75 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+} */
+
+.timeline-page {
+  background-color: #2a2a2a;
+  min-height: 100vh;
+  .loadmore {
+    position: relative;
+    display: flex;
+    background-color: #0c0c0c;
+    text-align: center;
+    align-items: center;
+  }
+
+  .btn-grad {
+    font-size: 1rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background-color: #727272;
+    margin-top: 10px;
+    margin-left: 46%;
+    margin-bottom: 10px;
+    padding: 10px 30px;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+
+  .close-btn {
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  // .ant-select {
+  //   background-color: black;
+  // }
+
+  .ant-select:not(.ant-select-customize-input) .ant-select-selector {
+    position: relative;
+    background-color: transparent;
+    border: 1px solid #d9d9d9;
+    border-radius: 2px;
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    color: white;
+  }
+
+  .ant-select-arrow {
+    color: white;
+  }
+  .floating-btn {
+    background-color: black;
+    box-shadow: 0px 0px 10px #fff;
+    color: #fff;
+    &:hover {
+      box-shadow: 0px 0px 52px #fff;
+    }
+  }
+}

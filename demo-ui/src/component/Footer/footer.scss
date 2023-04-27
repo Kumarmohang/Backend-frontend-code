@@ -1,0 +1,22 @@
+.footer {
+  padding: 0 40px;
+  padding-right: 0;
+  background: #1f1f1f;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1000;
+  .main-footer {
+    display: flex;
+    height: 30px;
+    padding: 7px 15px;
+    background: #1f1f1f;
+    align-items: center;
+    justify-content: center;
+    .cp-text {
+      color: white;
+      font-size: 10px;
+    }
+  }
+}

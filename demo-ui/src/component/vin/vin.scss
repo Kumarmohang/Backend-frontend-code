@@ -1,0 +1,54 @@
+.vin-search {
+  padding: 0 10px;
+  &-container {
+    background: #f6f6f6;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  .vin-heading {
+    font-size: 26px;
+    color: #f34a4a;
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    /* padding-left: 10px; */
+    /* text-align: center; */
+    /* width: 100%; */
+    display: block;
+  }
+  .car-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .search-vin-section {
+    margin-bottom: 50px;
+  }
+  .search-vin {
+    display: inline-block;
+    margin: 5px;
+    height: 30px;
+    width: 300px;
+    border: 0px;
+    border: 1px solid #e5e8eb;
+    border-radius: 5px;
+  }
+  .button {
+    // display: block;
+    align-items: center;
+    /* margin: 30px auto; */
+    background-color: #f34a4a !important;
+    height: 30px;
+    padding: 1px 10px !important;
+  }
+  .vin-genaerator-section {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-left: 50px;
+  }
+  .common-dropdown {
+  }
+}

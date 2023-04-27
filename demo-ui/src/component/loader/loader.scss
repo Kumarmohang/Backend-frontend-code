@@ -1,0 +1,10 @@
+.loading {
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  justify-content: center;
+
+  .light {
+    filter: brightness(0) invert(1);
+  }
+}

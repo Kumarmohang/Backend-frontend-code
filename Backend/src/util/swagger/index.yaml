@@ -1,0 +1,22 @@
+openapi: 3.0.0
+info:
+  title: Driven Api Documentation
+  description: Api documentation for user login ,register ,clubs get request , clubs details ,compare ,collector ,driver ,driver details , circuits ,circuits details ,vin and so on presented through swagger-ui and swagger Jsdoc.
+  version: '0.1'
+servers:
+  - url: http://127.0.0.1:8001
+  - description: Local server
+paths:
+  /clubs:
+    get:
+      description: All clubs page get request
+      responses:
+        '200':
+          description: Clubs Result
+        '500':
+          description: Internal server error
+          schema:
+            success: false
+            msg: internal server error
+      servers:
+        - url: http://127.0.0.1:3000

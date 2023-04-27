@@ -1,0 +1,187 @@
+{
+    "brand_name": "Ferrari",
+    "thumbnails": [
+      "https://api.ferrarinetwork.ferrari.com/v2/network-content/medias//resize/5e15b370a4d6ab0aabb72120-ferrari-412-t2-1995-thumb?apikey=9QscUiwr5n0NhOuQb463QEKghPrVlpaF&width=528&height=345"
+    ],
+    "specifications": {
+      "Engine": {
+        "Bore and Stroke": {
+          "Bore": {
+            "value": "43.0",
+            "unit": "mm",
+            "value_of": "Bore"
+          },
+          "is_single": true
+        },
+        "Clutch": {
+          "value": "multi-plate",
+          "is_single": true,
+          "value_of": "Clutch"
+        },
+        "Compression Ratio": {
+          "value": "12.8 : 1",
+          "is_single": true,
+          "value_of": "Compression Ratio"
+        },
+        "Displacement": {
+          "value": "2997.0",
+          "unit": "cc",
+          "value_of": "Displacement",
+          "is_single": true
+        },
+        "Fuel feed": {
+          "value": "Magneti Marelli electronic indirect injection",
+          "is_single": true,
+          "value_of": "Fuel feed"
+        },
+        "Lubricant": {
+          "value": "dry sump",
+          "is_single": true,
+          "value_of": "Lubricant"
+        },
+        "Lubrication": {
+          "value": "dry sump",
+          "is_single": true,
+          "value_of": "Lubrication"
+        },
+        "Maximum power": {
+          "Power": {
+            "value": "608.4",
+            "unit": "Hp",
+            "value_of": "Power"
+          },
+          "RPM": {
+            "value": "592.19",
+            "unit": "Hp",
+            "value_of": "RPM"
+          },
+          "is_single": false
+        },
+        "Power per litre": {
+          "value": "230.0",
+          "unit": "Hp/l",
+          "value_of": "Power per litre",
+          "is_single": true
+        },
+        "Total displacement": {
+          "value": "2997.34",
+          "unit": "cc",
+          "value_of": "Total displacement",
+          "is_single": true
+        },
+        "Type": {
+          "value": "rear, longitudinal 75° V12",
+          "is_single": true,
+          "value_of": "Type"
+        },
+        "Unitary displacement": {
+          "value": "2997.0",
+          "unit": "cc",
+          "value_of": "Unitary displacement",
+          "is_single": true
+        },
+        "V12 maximum power": {
+          "value": "679.89",
+          "unit": "Hp",
+          "value_of": "V12 maximum power",
+          "is_single": true
+        },
+        "Valve actuation": {
+          "value": "twin overhead camshafts per bank, four valves per cylinder",
+          "is_single": true,
+          "value_of": "Valve actuation"
+        },
+        "Valvetrain": {
+          "value": "4.0",
+          "unit": "valves per",
+          "value_of": "Valvetrain",
+          "is_single": true
+        }
+      },
+      "Chassis": {
+        "Brakes": {
+          "value": "carbon-carbon composite discs",
+          "is_single": true,
+          "value_of": "Brakes"
+        },
+        "Frame": {
+          "value": "honeycomb and carbon-fibre composite monocoque",
+          "is_single": true,
+          "value_of": "Frame"
+        },
+        "Front suspension": {
+          "value": "independent push-rod, twin wishbones, torsion bar springs, telescopic shock absorbers",
+          "is_single": true,
+          "value_of": "Front suspension"
+        },
+        "Front tyres": {
+          "value": "13”, Goodyear in",
+          "is_single": true,
+          "value_of": "Front tyres"
+        },
+        "Rear suspension": {
+          "value": "independent push-rod, twin wishbones, torsion bar springs, telescopic shock absorbers",
+          "is_single": true,
+          "value_of": "Rear suspension"
+        },
+        "Rear tyres": {
+          "value": "13”, Goodyear in",
+          "is_single": true,
+          "value_of": "Rear tyres"
+        },
+        "Steering": {
+          "value": "rack-and-pinion",
+          "is_single": true,
+          "value_of": "Steering"
+        },
+        "Transmission:": {
+          "value": "electro-hydraulic 6-speed + reverse",
+          "is_single": true,
+          "value_of": "Transmission:"
+        }
+      },
+      "Dimensions": {},
+      "Performance": {},
+      "Fuel consumption": {},
+      "Fuel consumption and emissions": {},
+      "Co2 emissions": {},
+      "Transmission and Performance": {},
+      "General Data": {
+        "Drive Type": {
+          "value": "Rear Wheel",
+          "is_single": true,
+          "value_of": "Drive Type"
+        }
+      }
+    },
+    "tag_string": "car cars Ferrari 412 T2 Classic ferrari-412-t2  Ferrari  classic",
+    "launch_year": "1995",
+    "description": "DUE  TO  THE  NEW  REGULATIONS,  LIMITING  THE  ENGINE  CAPACITY  TO  THREE  LITRES,  IT  IS  DECIDED  TO  UPGRADE  THE  412  T1  INTO  THE  412  T2,  BUT  WITHOUT  ANY  MAJOR  INNOVATIONS  This because the new, smaller 10-cylinder engine, considered to adapt better to the new 3-litre-rule, is in an advanced stage. The aerodynamics are revised with the sides shortened to fit the radiators and other accessories, the air inlets are now more square compared to last year’s and the wheel base as well as the whole car are shortened. The tank has a reduced capacity of 140 litres.   This car is a step ahead compared to last year’s single-seater, but still not able to bring Ferrari back into the fight for the title. Jean Alesi wins in Canada: Alesi and Berger are also successful on other races, conquering 73 points for a third place in the Constructors’ standings, won by Benetton. The Drivers’ Title is won again by Michael Schumacher, who will race for Ferrari in the next season. \nThe last thing a driver did at Ferrari, even if his name happened to be Alain Prost, was criticize one of the Scuderia's cars. The thing was Prost wasn't very far from the mark. From 1991 through 1993, Scuderia Ferrari gradually fell out of the conversation of elite teams within Formula One. Ferrari would turn John Barnard once again in an effort to turn things around. Things wouldn't be perfect, but the team would begin heading in the right direction.Ferrari would end the 1992 and 1993 seasons without a victory. There would be only two podium finishes in 1992. Then, in 1993, the team would better than mark by just one more podium result. Ferrari could not stomach such poor performances. It was clear, having such drivers as Jean Alesi, Gerhard Berger and Alain Prost, the car was a major short-coming in the whole equation. The Maranello outfit demanded a turn around in performance. This meant turning to a man that had helped the team challenge for a World Championship just a few years earlier. \n\n(adsbygoogle = window.adsbygoogle || []).push({}); \nJohn Barnard had been an integral figure in the McLaren dominance of the early 1980s. Barnard had become a less than popular figure within Ferrari circles. However, after a couple of less than popular seasons, Barnard would be brought back on halfway through the 1993 season. Barnard would be able to negotiate his contract with Ferrari and would end up founding a new office known as the Ferrari Design and Development based in Surrey.At the time of his return, Ferrari would be going to battle with the F93A. Powered by a Tipo 041 3.5-liter V12 producing around 740bhp, the car would be a top ten car. Over the course of the season the team would earn a couple of third place finishes, as well as, a second place in the hands of Jean Alesi at Monza. However, these decent results would be offset by a number of retirements. Not only was the car incapable of battle for the win, it was also relatively unreliable as well. This was a combination Barnard needed to rectify quickly. John would take a simplistic approach to the new car for the 1994 season. The new 412 T1 would have clean lines and a minimally-raised nose. The nose and sidepods would be the major points of revision on the 412 T1. The nose would flatten out a good deal while the sidepods would grow slightly taller, but much more tightly wrapped and sculpted in order to control the airflow around the side of the car.Standing for 4 valves per each one of the 12 cylinders and 'T' for a transverse gearbox, the 412 T1 would see some changes over the course of the season, including a new Tipo 043 V12 that produced some 830bhp. Barnard's major focus would be upon reliability and simple changes. The changes would have an effect as the team would end the '94 having scored a victory in the German Grand Prix, as well as a number of other podium finishes. The result would be Scuderia Ferrari would move up to 3rd in the Constructors' Championship standings at the end of the season, a step forward after a 4th place result the previous season. Ferrari had lost a good deal of ground to Williams and Benetton over the course of the previous seasons. Barnard had got Ferrari heading back in the right direction. Now he needed to do what he could to close the gap. Therefore, John, along with his team that included Gustav Brunner and Willem Toet, would set to work designing its challenger for the '95 season. \n\n(adsbygoogle = window.adsbygoogle || []).push({}); \nAided by Jean Todt, Barnard and his team looked to build upon the positive steps the team had made the previous season. Therefore, the new car would be a mere continuation, evolution, of the 412. Barnard would have other influences to consider when it came to the new updated car. The deaths of Roland Ratzenberger and Ayrton Senna at the San Marino Grand Prix had spelled the end of the deep side-cut cockpits that had been a part of Formula One since the very beginning. Safety regulations demanded better side protection structures. There would also be an effort to reduce speed. As a result, engines would be reduced from 3.5-liters to 3.0-liters. Furthermore, the front and rear wings would be reduced in size. This would be intended to reduce downforce, and therefore, cornering speeds. While Williams and Benetton would all go for raised noses, Barnard's team would go for a lovely contoured nose that drooped all the way down to the straight-edged front wing. The whole nose bulkhead would be raised slightly but all of the airflow that would be directed to the underside of the car would be done so under the front wing. Double wishbone, push-rod suspension would be hidden underneath the narrow nose structure while ventilated carbon fiber disc brakes would be utilized on all four corners. Carbon fiber had become the foundation of all chassis design in Formula One. Barnard had been the first to utilize the material in a Formula One car back in the very early '80s. It would again be the foundation of what would become the 412 T2. Flanked by tall, squared-off, sidepods, the cockpit would be much more restrictive than in years past. Inside the tight cockpit the drivers would be looking at an LCD display and a relatively minimal steering wheel. Semi-automatic sequential gearboxes had replaced the gearshift with paddle-operated system mounted to the back of the steering wheel. Interestingly, Barnard's previous tenure with Ferrari had introduced Formula One to just such an arrangement. The rear of the car would feature a double plane wing and NACA vents situated upon the top of the bodywork with the purpose of feeding air to the vertically mounted oil coolers. The endplates of the rear wing would extend forward and would sport smaller 'ear-like' wing structures intended to regain some of the lost downforce.Though reduced in size, the 3.0-liter V12 would not only produce around 600bhp, but also, one of the, if not the, most beautiful engine notes ever to beheld by the ears. Mounted on Goodyear tires and fueled by Agip, the 412 T2 was certainly considered the most beautiful car in the paddock, but would it be enough to challenge for the championship?When Michael Schumacher joined Ferrari the following year he would have the opportunity to drive the 412 T2 for the first. Upon emerging from the cockpit, the German would declare the car 'good enough to win a world championship'. While the statement may have been slightly optimistic, the results would not lie. Ferrari would again finish third in the championship, but this was not that surprising with Williams and Benetton in the picture. However, Gerhard Berger's four third place finishes in the first five races would combine with Jean Alesi's two second place finishes and first-ever victory in the Canadian Grand Prix to offer some validation to Schumacher's comments. In reality, the 412 T2 was routinely the fastest car in a straight line and showed well on tight street circuits like Monaco, as well as high-speed circuits such as Silverstone and Hockenheim. Sadly, unreliability would limit the true potential of the car, as Alesi would find out on a number of occasions throughout the season. Nonetheless, the 412 T2 established a strong foundation upon which Ferrari would build for the future. Just a half decade later, Ferrari would be the most dominant force in Formula One and the early parts of the 1990s would be a distant memory. Thankfully, the 412 T2 helped to stop the bleeding and get things heading back in the right direction.Sources:'Ferrari 412 T2', (http://www.f1technical.net/f1db/cars/766/ferrari-412t2). F1 Technical. http://www.f1technical.net/f1db/cars/766/ferrari-412t2. Retrieved 16 May 2015.'Ferrari 412 T2', (http://www.ultimatecarpage.com/cg/187/Ferrari-412-T2.html). Ultimatecarpage.com: Powered by Knowledge, driven by passion. http://www.ultimatecarpage.com/cg/187/Ferrari-412-T2.html. Retrieved 16 May 2015.Wikipedia contributors, 'Ferrari F93A', Wikipedia, The Free Encyclopedia, 6 March 2015, 03:11 UTC, http://en.wikipedia.org/w/index.php?title=Ferrari_F93A&oldid=650092999 accessed 16 May 2015Wikipedia contributors, 'Ferrari 412 T1', Wikipedia, The Free Encyclopedia, 25 February 2015, 15:49 UTC, http://en.wikipedia.org/w/index.php?title=Ferrari_412_T1&oldid=648800982 accessed 16 May 2015Wikipedia contributors, 'Ferrari 412 T2', Wikipedia, The Free Encyclopedia, 6 January 2015, 06:21 UTC, http://en.wikipedia.org/w/index.php?title=Ferrari_412_T2&oldid=641198971 accessed 16 May 2015By Jeremy McMullen",
+    "record_id": "93bd0d35056ce226e3781c77cd8ba5a1",
+    "synonyms": "",
+    "car_type": "Classic",
+    "k500_price": "",
+    "general_info": {
+      "production_count": "10",
+      "car_designers": [
+        "John Barnard (Dir. Technique)",
+        "Gustav Brunner (Design)",
+        "Willem Toet (Aérodynamique)"
+      ],
+      "production_years": [
+        "1995",
+        ""
+      ]
+    },
+    "year_wise_specifications": null,
+    "url": "https://www.ferrari.com/en-EN/formula1/412-t2",
+    "created_at": 1639300456,
+    "updated_at": 1639300456,
+    "is_racing": true,
+    "is_fewoffs": false,
+    "is_concept": false,
+    "body_style": null,
+    "thumbnail": [
+      "https://api.ferrarinetwork.ferrari.com/v2/network-content/medias//resize/5e15b370a4d6ab0aabb72120-ferrari-412-t2-1995-thumb?apikey=9QscUiwr5n0NhOuQb463QEKghPrVlpaF&"
+    ]
+  }

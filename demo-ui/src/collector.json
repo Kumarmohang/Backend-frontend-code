@@ -1,0 +1,66 @@
+{
+  "name": "Hassanal Bolkiah",
+  "aka": "Sultan of Brunei",
+  "no_of_cars_owned": "2000 +",
+  "description": [
+    "The World’s most impressive private Car Collections",
+    "Sultan of Brunei +2000 cars collection",
+    "The Sultan of Brunei is well known for possessing one of the largest  single private collection of automobiles; numbering an estimated +2000 (two thousand). Most are rare luxury and supercars such as Lamborghinis, Ferraris and a specially made one-off Bentley SUV, the Dominator but the collection also includes lesser impressive cars such as the Toyota Kijang.",
+    "The ceremonial state car of the Sultan of Brunei itself is a 1992 state landaulette Rolls-Royce Phantom VI. On non-ceremonial occasions, the Sultan of Brunei personally drives a black Mercedes Benz W163 ML55 AMG, usually escorted by either a Secret Service BMW E39 540i or a BMW E61 545i, and a few Lexus LX470. On other occasions he drives a Maybach 62.",
+    "The member of the Royal Family are usually escorted by a Secret Service escort Volvo S80 V8 models, or Mitsubishi 380.",
+    "The Cabinet Ministers of Brunei and visiting foreign dignitaries are driven in a black Mercedes Benz W221 S350L, while other senior ranking officials are driven in a black Mercedes Benz W211 E280.",
+    "Cars consisting of 209 BMWs, 574 Benz, 452 Ferraris, 179 Jaguars, 382 Bentleys, 134 Koenigseggs, a slew of Lamborghinis, Aston Martin, SSC, Cicero BDB Maestro, and so on. His limited edition and concept cars made only for him like the Ferrari Mythos, Pininfarina-designed Jaguar, Bentley Java and 4×4 Dominator, a Koenigsegg Agera CC GT and a Porsche Carma",
+    "The most valuable cars in the Sultan of Brunei collection",
+    "AMG 188",
+    "Aston Martin 78",
+    "Bentley 362",
+    "BMW 185",
+    "Chrysler 34",
+    "Ferrari 199",
+    "Jaguar 177",
+    "Lambo 20",
+    "Mclaren 9",
+    "Mercedes Benz 531",
+    "Porsche by Dauer 5",
+    "Porsche 160",
+    "Range Rover 42",
+    "Rolls Royce 130",
+    "Total 2120",
+    "McLaren f1,LM,GT.",
+    "Ferrari F40,F40LM & F50.",
+    "Some of the 5000 cars collection have been put for sale."
+  ],
+
+  "cars_in_collection": [
+    "f40",
+    "mclaren-f1",
+    "456-gt",
+    "456-gta",
+    "f355-gts",
+    "testarossa"
+  ],
+  "chassis_data": {
+    "f40": ["123", "456", "786"]
+  },
+  "collection_images": [
+    {
+      "original": "https://supercars.agent4stars.com/wp-content/uploads/2021/01/959PorscheGoldBrunei.png",
+      "thumbnail": "https://supercars.agent4stars.com/wp-content/uploads/2021/01/959PorscheGoldBrunei-592x444.png"
+    },
+    {
+      "original": "https://supercars.agent4stars.com/wp-content/uploads/2021/01/diabloSultanBrunei.jpg",
+      "thumbnail": "https://supercars.agent4stars.com/wp-content/uploads/2021/01/diabloSultanBrunei-592x444.jpg"
+    },
+    {
+      "original": "https://supercars.agent4stars.com/wp-content/uploads/2021/01/FerrariFXbrunei.jpg",
+      "thumbnail": "https://supercars.agent4stars.com/wp-content/uploads/2021/01/FerrariFXbrunei.jpg"
+    },
+    {
+      "original": "https://supercars.agent4stars.com/wp-content/uploads/2021/01/FerrariBruneiSultanHassanahBolkiah-1170x580.png",
+      "thumbnail": "https://supercars.agent4stars.com/wp-content/uploads/2021/01/FerrariBruneiSultanHassanahBolkiah-592x444.png"
+    }
+  ],
+  "source": "Agent4stars.com",
+  "source_link": "https://supercars.agent4stars.com/property/sultan-of-bruneis-car-collection/",
+  "collection_cost": "€ 500,000,000"
+}

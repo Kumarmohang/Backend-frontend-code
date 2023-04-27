@@ -1,0 +1,48 @@
+.calender {
+  .filter-section {
+    display: flex;
+    align-items: center;
+    width: 90%;
+    justify-content: flex-end;
+    margin: 10px 0;
+
+    .label {
+      margin: 0 10px;
+    }
+  }
+
+  .calender-section {
+    padding: 10px;
+    height: auto;
+    background: white;
+    border: 1px solid #e5e8eb;
+    border-radius: 4px;
+    box-shadow: 0 0 10px #f0f0f0;
+
+    .event-calender {
+      tr {
+        td.year-col {
+          color: #0087fc;
+        }
+
+        .event-col {
+          ul.events {
+            list-style: none;
+            border-left: 2px solid #818181;
+
+            li {
+              border-bottom: 0px solid #eaeaea;
+              box-shadow: 0 1px 0px 0 #e3e3ff;
+              text-align: left;
+              padding: 5px 10px;
+
+              span.event-date {
+                color: #707a83;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

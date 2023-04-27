@@ -1,0 +1,32 @@
+.offline-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  background-color: #000000;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  // filter: blur(5px);
+  z-index: 100;
+  opacity: 0.9;
+  .offline-container {
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    .offline-header {
+      font-size: 24px;
+      color: red;
+      line-height: 45px;
+    }
+    .offline-msg {
+      font-size: 18px;
+      color: #ffffff;
+      width: 315px;
+    }
+  }
+}

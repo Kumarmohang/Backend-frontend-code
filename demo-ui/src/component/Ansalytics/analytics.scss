@@ -1,0 +1,62 @@
+.container{
+    padding: 1%;
+    &-upper-section{
+        display: flex
+        
+    }
+    &-upper-section div {
+        // width: 33%;
+        // height: 45vh
+    }
+    &-lower-section{
+        display: flex;
+    }
+    &-lower-section div{
+        // width: 33%;
+        // height: 45vh
+    }
+
+        .select-box {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding:0 2%;
+            &-container{
+                width:50%;
+                display: flex;
+                justify-content:right;
+                align-items: center;
+            }
+            &-space {
+                    width:150px;
+                }
+            &-carType{
+                width:130px;
+            }
+            &-heading3{
+                width:60%;
+            }
+            &-heading5{
+                width:40%;
+            }
+            .ant-select-selector{
+                width:auto !important;
+            }
+
+            .i-button{
+                margin-left:10px;
+            }
+           
+        }
+                 
+        .graph-box{
+            height: 45vh;
+            width: 48vw;
+        }
+                &-middle-section {
+                    display: flex;
+                }
+                                &-lower-section {
+                                    display: flex;
+                                }
+}

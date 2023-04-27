@@ -1,0 +1,17 @@
+.metaverse {
+  padding: 0 10px;
+  &-heading {
+    font-size: 26px;
+    color: #f34a4a;
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    display: block;
+  }
+  &-container {
+    background: #f6f6f6;
+    padding: 20px;
+    border-radius: 5px;
+  }
+}

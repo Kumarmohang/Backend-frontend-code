@@ -1,0 +1,2 @@
+vininfo==1.6.0
+pymongo==4.0.1
